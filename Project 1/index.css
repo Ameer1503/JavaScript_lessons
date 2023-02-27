@@ -67,6 +67,6 @@ button{
     .container{
         margin: 20vmax auto;
         width: 40vmax;
-        height: 30vmax;
+        height: fit-content;
         }
 }
