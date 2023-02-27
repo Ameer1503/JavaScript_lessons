@@ -7,7 +7,7 @@ body{
     background: linear-gradient(rgb(255, 255, 255),rgb(194, 193, 193));
     margin: 10vmax auto;
     width: 400px;
-    height: 400px;
+    height: fit-content;
     border-radius: 10px;
     border: 2px solid rgb(10, 10, 10);
 }
@@ -16,7 +16,7 @@ body{
 }
 .container h2{
     font-size: 5vmax;
-    margin-bottom: 6vmax;
+    margin-bottom: 4vmax;
 }
 button{
     margin: .7vmax;
@@ -45,7 +45,7 @@ button{
     .container{
     margin: 10vmax auto;
     width: 40vmax;
-    height: 40vmax;
+    height: fit-content;
     }
 }
 @media (max-width: 420px) {
