@@ -1,0 +1,33 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    color: goldenrod;
+}
+#messages{
+    font-style: italic;
+    
+}
+.container{
+    background: url(poker\ table.jpg);
+    margin: 10vh auto;
+    width: 400px;
+    text-align: center;
+    padding: 3vmax 2vmax;
+    border: 2px solid grey;
+    border-radius:10px ;
+}
+p{
+    color: white;
+    font-weight: bold;
+}
+button{
+    all: unset;
+    font-weight: bold;
+    width: 150px;
+    color: #016f32;
+    background: goldenrod;
+    padding: 5px 0;
+}
+
