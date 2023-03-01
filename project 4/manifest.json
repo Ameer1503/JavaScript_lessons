@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.1",
+    "name": "Ameer Leads tracker",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "boxing.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
